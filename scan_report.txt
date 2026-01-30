@@ -1,0 +1,12 @@
+Suspicious Process & Network Scan Report
+Scan Time: 2026-01-29 20:16:16
+=======================================================
+
+⚠ SUSPICIOUS | PID 7116 | ArmouryCrate.Service.exe | Score: 5/10
+   - Suspicious keyword in name: 'rat'
+   - Has 3 active network connection(s)
+
+⚠ SUSPICIOUS | PID 11780 | ArmouryCrate.UserSessionHelper.exe | Score: 5/10
+   - Suspicious keyword in name: 'rat'
+   - Has 5 active network connection(s)
+
